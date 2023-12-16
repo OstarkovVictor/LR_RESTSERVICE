@@ -1,6 +1,7 @@
 package com.example.test_rest_lr.dao;
 
-import com. example.test_rest_lr.entity.Student; import org.springframework.stereotype.Repository;
+import com. example.test_rest_lr.entity.Student;
+import org.springframework.stereotype.Repository;
 import java.util.List;
 @Repository
     public interface StudentDAO{
